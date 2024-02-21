@@ -1,0 +1,9 @@
+/* class selector select all element with that class attribute */
+
+.heading {
+  color: rebeccapurple;
+}
+
+.subheading {
+  color: red;
+}
