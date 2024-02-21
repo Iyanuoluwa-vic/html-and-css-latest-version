@@ -1,0 +1,15 @@
+/* DIV AND SPAN - used for grouping */
+/* DIV - used to group multiple elements */
+/* SPAN - used to group inline content */
+
+.red {
+  color: red;
+}
+
+.green {
+  color: greenyellow;
+}
+
+.text {
+  color: blueviolet;
+}
