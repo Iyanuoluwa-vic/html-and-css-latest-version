@@ -1,0 +1,13 @@
+/* child inheritance style from the parent unless the child has it own style */
+
+body {
+  color: red;
+}
+
+div {
+  color: gray;
+}
+
+.special {
+  color: blueviolet;
+}
