@@ -1,0 +1,15 @@
+/* 
+ Percent -relative unit/value - it is  because it does depend on the parent
+*/
+
+.outer {
+  background-color: green;
+  width: 250px;
+  height: 250px;
+}
+
+.inner {
+  width: 50%;
+  height: 50%;
+  background-color: red;
+}
