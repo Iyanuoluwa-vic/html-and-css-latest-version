@@ -1,0 +1,22 @@
+/* 
+em - relative - depend on the parent 
+1em - 16px default browswer style
+1em = base value (16px) * number (1) = 16px
+2em = base value (16px) * number (2) = 32px
+*/
+
+/* this was used to determin font for the absolute and relative because it is the parent
+    relative - 20px*3 =60px
+    absolute - 20px *6 = 120px
+*/
+div {
+  font-size: 20px;
+}
+
+.relative {
+  font-size: 3em;
+}
+
+.absolute {
+  font-size: 6em;
+}
