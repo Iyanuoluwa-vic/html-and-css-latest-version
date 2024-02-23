@@ -1,0 +1,20 @@
+/* 
+rem - relative - it does depend on the root
+
+*/
+
+/* this is the root that determin the font
+   relative- 10px*3 =30px
+   absolute - 10px*6=60px
+*/
+html {
+  font-size: 10px;
+}
+
+.relative {
+  font-size: 3rem;
+}
+
+.absolute {
+  font-size: 6rem;
+}
