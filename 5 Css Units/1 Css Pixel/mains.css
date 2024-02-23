@@ -1,0 +1,13 @@
+/* 
+Pixel - it is an absolute value that does not change
+font - size of font
+width - width of element
+height - height of element
+*/
+
+h1 {
+  background-color: blue;
+  font-size: 80px;
+  width: 700px;
+  height: 600px;
+}
