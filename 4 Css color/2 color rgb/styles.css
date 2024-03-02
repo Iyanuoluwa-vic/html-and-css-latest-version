@@ -1,0 +1,20 @@
+/* rgb color is 0-255 */
+
+#heading-one {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
+}
+
+#heading-two {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 255, 0);
+}
+
+#heading-three {
+  background-color: rgb(65, 2, 110);
+  color: rgb(0, 0, 255);
+}
+
+body {
+  background-color: rgb(89, 56, 120);
+}
