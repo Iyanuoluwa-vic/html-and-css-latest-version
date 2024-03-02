@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+.navbar {
+  height: 7rem;
+  background-color: white;
+}
+
+.navbar-logo {
+  color: red;
+  font-size: 3rem;
+}
+
+.hero {
+  height: calc(100vh - 7rem);
+  background-color: black;
+  color: white;
+}
+
+.hero span {
+  color: red;
+  font-size: 40px;
+}
+
+.hero h1 {
+  font-size: 50px;
+}
+
+.hero-btn {
+  background-color: red;
+  color: white;
+}
