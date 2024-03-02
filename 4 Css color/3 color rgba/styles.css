@@ -1,0 +1,25 @@
+/* rgba a - is the opacity/traspreacy which is from 0-1 */
+
+#one {
+  color: rgba(255, 0, 0, 1);
+  background-color: rgba(121, 28, 126, 0);
+}
+
+#two {
+  color: rgba(255, 0, 0, 0.8);
+  background-color: rgba(121, 28, 126, 0.4);
+}
+
+#three {
+  color: rgba(255, 0, 0, 0.6);
+  background-color: rgba(121, 28, 126, 0.7);
+}
+
+#four {
+  color: rgba(0, 255, 17, 0.6);
+  background-color: rgba(4, 1, 4, 0.7);
+}
+
+body {
+  background-color: rgb(206, 91, 189);
+}
