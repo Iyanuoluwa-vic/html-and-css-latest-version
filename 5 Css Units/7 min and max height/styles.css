@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+.navbar {
+  height: 6rem;
+  background-color: blue;
+}
+
+.navbar li {
+  color: white;
+  font-size: 3rem;
+}
+
+.banner {
+  background-color: red;
+  height: calc(100vh - 6rem);
+  min-height: calc(100vh - 6rem);
+  max-height: 90vh;
+  color: black;
+  overflow: scroll;
+}
+
+.example {
+  background-color: green;
+  min-height: 30vh;
+  max-height: 40vh;
+  overflow: scroll;
+  width: 50vw;
+}
