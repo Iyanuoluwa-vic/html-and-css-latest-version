@@ -1,0 +1,8 @@
+/* this is an import google font */
+/* @import url("https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap"); */
+
+h2 {
+  font-family: "Just Me Again Down Here", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
