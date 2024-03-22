@@ -1,0 +1,13 @@
+/* 
+font-stack generic-family
+serif, sans-serif, cursive, fantasy, monospace
+*/
+
+h1 {
+  font-family: arial;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
